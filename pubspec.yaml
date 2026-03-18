@@ -1,6 +1,6 @@
 name: network_log_viewer
 description: "Flutter package to log REST APIs, GraphQL (queries, variables, responses), and SDK events (Insider, Adjust, Amplitude) with an in-app viewer."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/mohsinrizvi/networklogger
 repository: https://github.com/mohsinrizvi/networklogger
 issue_tracker: https://github.com/mohsinrizvi/networklogger/issues

@@ -27,7 +27,7 @@ In your app’s `pubspec.yaml`:
 dependencies:
   flutter:
     sdk: flutter
-  network_log_viewer: ^1.0.0
+  network_log_viewer: ^1.0.1
   dio: ^5.0.0   # required if you use REST logging
   graphql: ^5.0.0   # required if you use GraphQL logging
 ```
